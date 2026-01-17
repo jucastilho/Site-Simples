@@ -48,7 +48,7 @@ list-style: square;
 .btn {
     position: absolute;
     top: 190px;
-    left: 350px;
+    left: 400px;
     height: 50px;
     width: 50px;
     border-radius: 50%;
@@ -58,4 +58,5 @@ list-style: square;
 }
 
 .btn:focus {outline-style: none;}
+
 
